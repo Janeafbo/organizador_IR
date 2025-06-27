@@ -1,4 +1,4 @@
-### Organizadr de IR
+## Organizador de IR
 Ferramenta em Excel para organizar dados para declaração do imposto de renda.
 
 ## Objetivo da ferramenta
